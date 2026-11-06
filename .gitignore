@@ -1,0 +1,17 @@
+# Installers and build output (attach installers to a GitHub Release instead)
+*.exe
+*.msi
+app/node_modules/
+app/dist/index.html
+app/src-tauri/target/
+app/src-tauri/gen/
+
+# Personal tools kept out of the public repo
+Song-Tool.ps1
+
+# OS / editor clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
