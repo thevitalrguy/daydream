@@ -17,7 +17,7 @@ Bump the version in both `src-tauri/tauri.conf.json` and `src-tauri/Cargo.toml` 
 ## Other commands
 
 - `npm run dev` runs the app without building an installer.
-- `npm run icon` regenerates `src-tauri/icons/` from `icon.svg`. Delete the `android/`, `ios/` and extra PNG files it adds.
+- `npm run icon` regenerates `src-tauri/icons/` from `icon.png`. Delete the `android/`, `ios/` and extra PNG files it adds.
 
 ## Notes
 

@@ -1,6 +1,6 @@
 [package]
 name = "daydream"
-version = "1.4.0"
+version = "1.5.0"
 license = "GPL-3.0-or-later"
 description = "Daydream music player"
 edition = "2021"
